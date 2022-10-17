@@ -22,7 +22,7 @@
 
     <properties>
         <jersey.version>2.26</jersey.version>
-        <jackson.version>2.12.6.1</jackson.version>
+        <jackson.version>2.12.7.1</jackson.version>
         <javassist.version>3.22.0-GA</javassist.version>
         <swagger-codegen-maven-plugin-version>2.3.1</swagger-codegen-maven-plugin-version>
         <sonar.skip>false</sonar.skip>
@@ -128,13 +128,13 @@
                     <artifactId>joda-time</artifactId>
                 </exclusion>
             </exclusions>
-            <version>1.5.16</version>
+            <version>1.6.8</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
             <groupId>io.swagger</groupId>
             <artifactId>swagger-jersey2-jaxrs</artifactId>
-            <version>1.5.16</version>
+            <version>1.6.8</version>
             <scope>compile</scope>
         </dependency>
         <!-- Base64 encoding that works in both JVM and Android -->
