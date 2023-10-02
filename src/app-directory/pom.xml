@@ -134,7 +134,7 @@
         <dependency>
             <groupId>io.swagger</groupId>
             <artifactId>swagger-jersey2-jaxrs</artifactId>
-            <version>1.5.16</version>
+            <version>1.6.9</version>
             <scope>compile</scope>
         </dependency>
         <!-- Base64 encoding that works in both JVM and Android -->
