@@ -128,7 +128,7 @@
                     <artifactId>joda-time</artifactId>
                 </exclusion>
             </exclusions>
-            <version>1.5.16</version>
+            <version>1.6.8</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
